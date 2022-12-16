@@ -58,6 +58,7 @@ border-radius: 10px;
 
 .bg-green {
     background: #e5ffe7;
+    margin-bottom: 24px;
 }
 .btn {
     background: #111;
@@ -75,7 +76,7 @@ border-radius: 10px;
     margin-bottom: 10px;
 }
 table td:nth-child(3) {
-    color: red;
+    color: rgb(154, 218, 50);
 }
 
 .form h4 {
